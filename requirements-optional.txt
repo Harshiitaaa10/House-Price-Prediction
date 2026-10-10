@@ -1,0 +1,3 @@
+# Optional: adds XGBoost to the model comparison.
+# On Mac you also need:  brew install libomp
+xgboost
